@@ -20,6 +20,7 @@ hideSummary: false
 searchHidden: true
 ShowReadingTime: true
 ShowBreadCrumbs: true
+ShowCodeCopyButtons: true
 ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true

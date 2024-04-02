@@ -9,30 +9,33 @@ author: "mmoyle"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
-draft: true
+draft: false
 hidemeta: false
 comments: false
-description: "Desc Text."
+description: "Run Commitlint Locally Without Husky"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false
-searchHidden: true
+searchHidden: false
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 ShowWordCount: true
+ShowCodeCopyButtons: true
 ShowRssButtonInSectionTermList: true
+ShowShareButtons: true
 UseHugoToc: true
-cover:
-    image: "<image path/url>" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
+# cover:
+#     image: "images/00162-1331686939.png" # image path/url
+#     alt: "<alt text>" # alt text
+#     caption: "<text>" # display caption under cover
+#     relative: true # when using page bundles set this to true
+#     hidden: false # only hide on current single page
+#     linkFullImages: true
 editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+    URL: "https://github.com/mmoyle/mmoyle.github.io/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
